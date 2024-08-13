@@ -1,4 +1,6 @@
 # Rotas
+![image](https://github.com/user-attachments/assets/f9d4a5f6-cb93-479e-aae3-8a6d7da7c61b)
+![image](https://github.com/user-attachments/assets/441df9b7-b8b6-4930-88d3-adcc5ed2de7d)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
 
